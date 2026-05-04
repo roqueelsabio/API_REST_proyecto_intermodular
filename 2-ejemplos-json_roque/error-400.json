@@ -1,0 +1,17 @@
+{
+  "error": "Datos de entrada inválidos",
+  "detalles": [
+    {
+      "campo": "fecha_inicio",
+      "mensaje": "El formato introducido no es válido."
+    },
+    {
+      "campo": "id_recurso",
+      "mensaje": "Ese usuario no existe."
+    },
+    {
+      "campo": "id_usuario",
+      "mensaje": "Ese recurso no existe."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+    {
+    "id_recurso": 2,
+    "id_reserva_local": 2,
+    "id_usuario": 3,
+    "nombre_recurso": "Sala Creativa",
+    "nombre_usuario": "Lucía Méndez",
+    "fecha": "2026-07-01",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "16:00:00",
+    "coste": 150.00,
+    "numero_plazas": 20,
+    "motivo": "Crear una reserva",
+    "disponible": true
+    },
+    {
+    "id_recurso": 3,
+    "id_reserva_local": 3,
+    "id_usuario": 2,
+    "nombre_recurso": "Auditorio Principal",
+    "nombre_usuario": "Marcos Ruiz",
+    "fecha": "2026-07-03",
+    "hora_inicio": "09:00:00",
+    "hora_fin": "15:00:00",
+    "coste": 80.00,
+    "numero_plazas": 15,
+    "motivo": "Para ir con los amigos",
+    "disponible": false
+    }
+]
