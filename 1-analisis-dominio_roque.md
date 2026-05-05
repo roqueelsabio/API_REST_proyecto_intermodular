@@ -94,5 +94,11 @@ Necesito en total 10 campos de la tabla reservas, más 2 añadidos con un JOIN y
 
 ## Documentación Swagger UI (Reservas)
 
-### GET
-[Ver captura](./img/get_reservas.png)
+### Mis endpoints
+[Ver endpoints](./img/endpoints.png)
+
+### Responses y ejemplos de los endpoints
+- [GET](./img/get_response.png)
+- [POST](./img/post_response.png)
+- [PATCH](./img/patch_response.png)
+- [DELETE](./img/delete_response.png)
