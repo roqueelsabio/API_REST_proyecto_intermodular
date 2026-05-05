@@ -89,3 +89,10 @@ Estos campos se generarán en base a lo que realice el usuario:
 ### Conclusión
 
 Necesito en total 10 campos de la tabla reservas, más 2 añadidos con un JOIN y uno añadido para comprobar el estado de la reserva (en total, 13 campos). Aplico un par de restricciones básicas para asegurarme de que se crea correctamente.
+
+***
+
+## Documentación Swagger UI (Reservas)
+
+### GET
+[Ver captura](./img/get_reservas.png)
