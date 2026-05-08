@@ -62,6 +62,7 @@ Estos campos se generarán en base a lo que realice el usuario:
     "fecha": "2026-06-30",
     "hora_inicio": "15:00:00",
     "hora_fin": "20:00:00",
+    "coste": 200.00,
     "numero_plazas": 10,
     "motivo": "Para pasarlo bien",
     "observaciones": "Voy con unos cuantos"
@@ -72,9 +73,9 @@ Estos campos se generarán en base a lo que realice el usuario:
 ```
 {
     "id_recurso": 1,
+    "nombre_recurso": "Estudio de Podcast",
     "id_reserva_local": 2,
     "id_usuario": 3,
-    "nombre_recurso": "Estudio de Podcast",
     "nombre_usuario": "Lucía Méndez",
     "fecha": "2026-06-30",
     "hora_inicio": "15:00:00",
