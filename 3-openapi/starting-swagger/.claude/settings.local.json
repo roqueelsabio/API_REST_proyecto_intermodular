@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm start)",
-      "Bash(ls:*)",
-      "Bash(npm run build:*)"
-    ]
-  }
-}
