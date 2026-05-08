@@ -1,8 +1,8 @@
 {
     "id_recurso": 2,
+    "nombre_recurso": "Sala Creativa",
     "id_reserva_local": 2,
     "id_usuario": 3,
-    "nombre_recurso": "Sala Creativa",
     "nombre_usuario": "Lucía Méndez",
     "fecha": "2026-07-01",
     "hora_inicio": "08:00:00",
