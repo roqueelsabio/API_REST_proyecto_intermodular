@@ -29,15 +29,15 @@ components:
           id_recurso:
             type: integer
             example: 1
+          nombre_recurso:
+            type: string
+            example: "Recurso con un buen nombre"
           id_reserva_local:
             type: integer
             example: 1
           id_usuario: 
             type: integer
-            example: 1
-          nombre_recurso:
-            type: string
-            example: "Recurso con un buen nombre"  
+            example: 1  
           nombre_usuario:
             type: string
             example: "Pepe Rodríguez Mas"  
