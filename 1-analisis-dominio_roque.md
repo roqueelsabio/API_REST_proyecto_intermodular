@@ -98,6 +98,10 @@ Necesito en total 10 campos de la tabla reservas, más 2 añadidos con un JOIN y
 ### Mis endpoints
 [Ver endpoints](./img/endpoints.png)
 
+### Mis schemas
+
+[Ver schemas](./img/schemas.png)
+
 ### Responses y ejemplos de los endpoints
 - [GET](./img/get_response.png)
 - [POST](./img/post_response.png)
