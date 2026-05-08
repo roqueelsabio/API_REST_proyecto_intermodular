@@ -1,17 +1,18 @@
 {
-  "error": "Datos de entrada inválidos",
-  "detalles": [
+  "codigo": "VALIDATION_ERROR",
+  "mensaje": "Datos de entrada inválidos",
+  "errores": [
     {
-      "campo": "fecha_inicio",
+      "campo": "fecha",
       "mensaje": "El formato introducido no es válido."
     },
     {
       "campo": "id_recurso",
-      "mensaje": "Ese usuario no existe."
+      "mensaje": "Ese recurso no existe."
     },
     {
       "campo": "id_usuario",
-      "mensaje": "Ese recurso no existe."
+      "mensaje": "Ese usuario no existe."
     }
   ]
 }

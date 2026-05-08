@@ -20,7 +20,7 @@
 |fecha|DATE|Sí|Saber cuándo es la reserva|
 |hora_inicio|TIME|Sí|Saber cuándo empieza una reserva|
 |hora_fin|TIME|Sí|Saber cuándo acaba una reserva|
-|coste|DECIMAL(10,2)|Sí (solo en la respuesta)|Saber el coste de una reserva|
+|coste|DECIMAL(10,2)|Sí|Saber el coste de una reserva|
 |numero_plazas|INT|Sí|Saber cuántas plazas se van a utilizar|
 |motivo|TEXT|Sí|Saber por qué se realiza la reserva|
 |observaciones|TEXT|Sí (menos en la respuesta)|Saber información que aporta el usuario|
